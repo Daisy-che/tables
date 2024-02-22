@@ -1,0 +1,6 @@
+#container{
+    border: solid 1px blue;
+    margin:0 auto;
+    border-radius: 4px 4px 4px 4px; 
+    background-attachment: fixed;
+}
